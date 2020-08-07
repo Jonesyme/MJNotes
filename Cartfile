@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "realm/realm-cocoa"
+github "SDWebImage/SDWebImage"
+github "SnapKit/SnapKit"
+github "ashleymills/Reachability.swift"
+
