@@ -10,7 +10,7 @@ fully functioning nor is reachability implemented.
 - Language: Swift 5
 
 ## To Run
-- Execute: "carthage update" in project directory
+- Execute: "carthage update --platform iOS" in project directory
 - Compile and run
 
 #### Fun Challlenge.  Appreciate the opportunity.  Thanks!
