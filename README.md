@@ -11,7 +11,7 @@ fully functioning nor is reachability implemented.
 - Used all 3rd-party frameworks except for AlamoFire, rolled my own Network Library.
 
 ## To Run
-- Execute: "carthage update --platform iOS" in project directory
+- Execute: "carthage update --platform ios" in project directory
 - Compile and run
 
 #### Fun Challlenge.  Appreciate the opportunity.  Thanks!
