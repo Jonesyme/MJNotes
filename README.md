@@ -1,4 +1,4 @@
-# MTJNotes
+# MJNotes
 - **Code Challenge:** Build a basic note taking and storage app using a strict MVVMC architecture pattern. 
 
 ## Project Configuration
