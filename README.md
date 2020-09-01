@@ -1,17 +1,14 @@
-### Note to the reviewers:
+# MTJNotes
+- **Code Challenge:** Build a basic note taking and storage app using a strict MVVMC architecture pattern. 
 
-Wish I had another day tro wrap things up but sadly the data sync is not quite
-fully functioning nor is reachability implemented.  
+## Project Configuration:
+- **Compiler:** Xcode 11.6
+- **Language:** Swift 5
+- **Notes:** Used all allowed 3rd-party frameworks except for AlamoFire. I rolled my own Networking framework instead.
 
-- Mike
 
-## MJNotes
-- Compiler: Xcode 11.6
-- Language: Swift 5
-- Used all 3rd-party frameworks except for AlamoFire, rolled my own Network Library.
+## Instructions for running app:
+- **Execute in shell:**  "carthage update --platform ios" in project directory
+- **Compile:** And run!
 
-## To Run
-- Execute: "carthage update --platform ios" in project directory
-- Compile and run
-
-#### Fun Challlenge.  Appreciate the opportunity.  Thanks!
+#### Fun Challlenge.  Appreciate the opportunity. ;)
